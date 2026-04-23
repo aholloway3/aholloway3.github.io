@@ -38,4 +38,4 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
 
 - [GitHub](https://github.com/aholloway3)
 - [LinkedIn](https://www.linkedin.com/in/alanbranholloway/)
-- [Resume (PDF)](./AlanHolloway-202604-Epi.pdf) — *upload your PDF first*
+- [Resume (PDF)](./AlanHolloway-202604-Epi.pdf)
