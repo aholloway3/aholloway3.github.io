@@ -23,6 +23,20 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
 
 **[View the code on GitHub →](https://github.com/aholloway3/epi-project)**
 
+
+## Featured Project: SQL Portfolio: Healthcare Eligibility Rules Engine
+
+[![SQL Portfolio]](https://github.com/aholloway3/sql_portfolio))
+
+**What This Demonstrates:**
+1. - Eligibility logic implementation — joining patient data to business rules
+2. - Data quality assessment — identifying missing admission dates
+3. - Volume troubleshooting — understanding why patient counts change
+4. - Logic breakdown — showing intermediate steps for validation
+5. - Near-miss analysis — identifying patients who almost qualify
+
+**[View the code on GitHub →](https://github.com/aholloway3/sql_portfolio)**
+
 ---
 
 ## Technical Skills
