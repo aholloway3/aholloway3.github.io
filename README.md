@@ -12,9 +12,21 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
 
 ---
 
-## Featured Project: Acute Hepatitis Surveillance in Tennessee (2016)
+## Featured Projects
 
-[![Hepatitis Cases in Tennessee, 2016](https://raw.githubusercontent.com/aholloway3/epi-project/main/hepatitis_cases_tn_2016.png)](https://github.com/aholloway3/epi-project)
+- **[Acute Hepatitis Surveillance (TN, 2016)](https://github.com/aholloway3/epi-project)** → R, CDC NNDSS, outbreak visualization
+- **[SQL Eligibility Rules Engine](https://github.com/aholloway3/sql_portfolio)** → Business logic, patient matching, near-miss analysis
+- **[PDF to CSV Parser](https://github.com/aholloway3/twoline-pdf-parser)** → Python, regex, fixed-width data extraction
+
+---
+
+## Featured Project: Acute Hepatitis Surveillance in Tennessee (2016)
+<a href="https://github.com/aholloway3/epi-project">
+  <img src="https://raw.githubusercontent.com/aholloway3/epi-project/main/hepatitis_cases_tn_2016.png" 
+       width="300" 
+       align="right" 
+       alt="Hepatitis Cases in Tennessee, 2016">
+</a>
 
 **What this project demonstrates:**
 - Cleaning CDC NNDSS hepatitis data
@@ -25,8 +37,12 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
 
 
 ## Featured Project: SQL Portfolio: Healthcare Eligibility Rules Engine
-
-[SQL Portfolio](https://github.com/aholloway3/sql_portfolio)
+<a href="https://github.com/aholloway3/aholloway3.github.io">
+  <img src="https://raw.githubusercontent.com/aholloway3/aholloway3.github.io/main/sql-image.png" 
+       align="right" 
+       alt="SQL Code Snippet">
+</a>
+[![SQL Portfolio](https://github.com/aholloway3/sql_portfolio)
 
 **What This Demonstrates:**
 - Eligibility logic implementation — joining patient data to business rules
