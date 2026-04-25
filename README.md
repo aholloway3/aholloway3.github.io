@@ -26,7 +26,7 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
 
 ## Featured Project: SQL Portfolio: Healthcare Eligibility Rules Engine
 
-[SQL Portfolio](https://github.com/aholloway3/sql_portfolio))
+[SQL Portfolio](https://github.com/aholloway3/sql_portfolio)
 
 **What This Demonstrates:**
 1. - Eligibility logic implementation — joining patient data to business rules
