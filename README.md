@@ -17,6 +17,7 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
 - **[Acute Hepatitis Surveillance (TN, 2016)](https://github.com/aholloway3/epi-project)** → R, CDC NNDSS, outbreak visualization
 - **[SQL Eligibility Rules Engine](https://github.com/aholloway3/sql_portfolio)** → Business logic, patient matching, near-miss analysis
 - **[PDF to CSV Parser](https://github.com/aholloway3/twoline-pdf-parser)** → Python, regex, fixed-width data extraction
+- **[Synthetic Claims Data Generator](https://github.com/aholloway3/synthetic_data)** → Python, Faker, denial reason visualization
 
 ---
 
@@ -42,7 +43,7 @@ I'm seeking an epidemiologist role focused on viral hepatitis and communicable d
        align="right" 
        alt="SQL Code Snippet">
 </a>
-[![SQL Portfolio](https://github.com/aholloway3/sql_portfolio)
+[SQL Portfolio](https://github.com/aholloway3/sql_portfolio)
 
 **What This Demonstrates:**
 - Eligibility logic implementation — joining patient data to business rules
